@@ -1,0 +1,10 @@
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+coverage
+youtube_dl
+pydub
+# ecdsa
+# paramiko
+# pycrypto
